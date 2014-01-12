@@ -9,4 +9,6 @@ Package.on_use(function (api) {
     ]
     ,'client'
   );
+
+  api.export('x3dom', 'client');
 });
