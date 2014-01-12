@@ -1,0 +1,8 @@
+{
+  "name": "x3dom",
+  "description": "x3dom, framework for X3D scenes, package for Meteor",
+  "homepage": "https://github.com/dnprock/meteor-x3dom",
+  "author": "Phuoc Do <dnprock@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/dnprock/meteor-x3dom.git"
+}
